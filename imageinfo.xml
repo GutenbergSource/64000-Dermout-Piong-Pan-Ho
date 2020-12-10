@@ -1,0 +1,23 @@
+<images xmlns="http://www.gutenberg.ph/2006/schemas/imageinfo">
+<image path="images/book.png" filesize="219" filedate="2018-12-01 12:01:15" width="16px" height="16px"/>
+<image path="images/card.png" filesize="230" filedate="2018-12-01 12:01:15" width="16px" height="11px"/>
+<image path="images/external.png" filesize="159" filedate="2018-12-01 12:01:15" width="12px" height="12px"/>
+<image path="images/new-cover.jpg" filesize="48311" filedate="2020-12-05 20:18:57" width="480px" height="720px"/>
+<image path="images/o1001.png" filesize="13879" filedate="2020-12-05 14:39:22" width="512px" height="111px"/>
+<image path="images/o1023.png" filesize="16310" filedate="2020-12-05 14:39:23" width="512px" height="109px"/>
+<image path="images/o1056.png" filesize="2256" filedate="2020-12-05 14:39:26" width="256px" height="58px"/>
+<image path="images/o1080.png" filesize="13542" filedate="2020-12-05 14:39:26" width="512px" height="106px"/>
+<image path="images/o1098.png" filesize="2324" filedate="2020-12-05 14:39:29" width="256px" height="56px"/>
+<image path="images/o1099.png" filesize="15673" filedate="2020-12-05 14:39:30" width="512px" height="109px"/>
+<image path="images/o1124.png" filesize="1146" filedate="2020-12-05 14:39:32" width="128px" height="50px"/>
+<image path="images/o1125.png" filesize="16277" filedate="2020-12-05 14:39:33" width="512px" height="109px"/>
+<image path="images/o1150.png" filesize="12291" filedate="2020-12-05 14:39:33" width="512px" height="89px"/>
+<image path="images/o1174.png" filesize="15075" filedate="2020-12-05 14:39:34" width="512px" height="103px"/>
+<image path="images/o1209.png" filesize="3075" filedate="2020-12-05 14:39:39" width="256px" height="90px"/>
+<image path="images/o1230.png" filesize="5676" filedate="2020-12-05 14:39:39" width="256px" height="138px"/>
+<image path="images/o1262.png" filesize="5472" filedate="2020-12-05 14:39:41" width="256px" height="138px"/>
+<image path="images/o2021.png" filesize="721" filedate="2020-12-05 14:39:40" width="128px" height="27px"/>
+<image path="images/o2022.png" filesize="15050" filedate="2020-12-05 14:39:41" width="512px" height="108px"/>
+<image path="images/qrcode.png" filesize="268" filedate="2020-12-10 16:15:55" width="148px" height="148px"/>
+<image path="images/titlepage.png" filesize="5892" filedate="2020-12-05 14:39:43" width="454px" height="720px"/>
+</images>
